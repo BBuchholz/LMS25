@@ -1,0 +1,4 @@
+- [ ] record Maloka dragon breath meditation and 
+	- [ ] store in both drive 
+	- [ ] and obsidian
+- [ ] transcribe audio notes on [[Maloka Draig]]
